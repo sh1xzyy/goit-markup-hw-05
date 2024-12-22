@@ -602,9 +602,12 @@ body {
 	color: var(--light-slate);
 }
 
+.input__inner {
+	margin-bottom: 8px;
+}
+
 .input__container {
 	position: relative;
-	margin-bottom: 8px;
 }
 
 .modal__input,
